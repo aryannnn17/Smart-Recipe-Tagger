@@ -7,7 +7,7 @@ A web application that allows users to sign in with Google, connect to their Goo
 ## 📸 Demo Screenshots
 
 ### Login Page
-<img width="861" height="524" alt="Login Page" src="./demo/item1.png" />
+<img width="861" height="524" alt="Login Page" src="./demo/login-page.png" />
 
 ### Dashboard & Photo Gallery
 <img width="861" height="524" alt="Dashboard & Photo Gallery" src="./demo/dashboard.png" />
