@@ -7,13 +7,13 @@ A web application that allows users to sign in with Google, connect to their Goo
 ## 📸 Demo Screenshots
 
 ### Login Page
-<img width="861" height="524" alt="Login Page" src="https://github.com/user-attachments/assets/55c77711-2242-4551-bd03-3d154c7b33e8" />
+<img width="861" height="524" alt="Login Page" src="./demo/item1.png" />
 
 ### Dashboard & Photo Gallery
 <img width="861" height="524" alt="Dashboard & Photo Gallery" src="./demo/dashboard.png" />
 
 ### Recipe Generation
-<img width="861" height="524" alt="Recipe Generation" src="./demo/item1.png" />
+<img width="861" height="524" alt="Recipe Generation" src="./demo/item2-2.png" />
 
 ### Recipe Details
 <img width="861" height="524" alt="Recipe Details" src="./demo/item2-1.png" />
