@@ -1,0 +1,66 @@
+.login-container {
+  min-height: 100vh;
+  background: radial-gradient(circle at top left, #ffe0b2 0, #fff7ec 40%, #ffffff 100%);
+  padding: 24px;
+}
+
+.login-card {
+  border-radius: 18px;
+  border: none;
+}
+
+.login-header .app-title {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.app-logo .logo-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ff7043, #ff9800);
+  box-shadow: 0 8px 20px rgba(255, 112, 67, 0.35);
+}
+
+.logo-emoji {
+  font-size: 28px;
+}
+
+.google-signin-btn {
+  background-color: #ffffff;
+  border: 1px solid #dadce0;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(60, 64, 67, 0.15);
+}
+
+.google-btn-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.google-logo {
+  flex-shrink: 0;
+}
+
+.google-btn-text {
+  color: #3c4043;
+}
+
+.google-signin-btn:hover:not(:disabled) {
+  background-color: #f7f8f8;
+  box-shadow: 0 1px 5px rgba(60, 64, 67, 0.25);
+  transform: translateY(-1px);
+}
+
+.google-signin-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
